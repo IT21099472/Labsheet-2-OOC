@@ -22,7 +22,7 @@ float CA_1[5],CA_2[5];
 cout<<"1234567890123456789012345678901234567890"<<endl;
 cout<<setw(10)<<"Student"<<setw(10)<<"Marks1"<<setw(10)<<"Marks2"<<setw(10)<<"CA_1"<<setw(10)<<"CA_2";
 
-
+return 0;
 
 }
 
